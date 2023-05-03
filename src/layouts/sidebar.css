@@ -1,0 +1,27 @@
+.ftstyle3 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 30px;
+    color: #808191; 
+}
+
+.ftstyle4 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 23.5618px;
+    line-height: 31px;
+    color: #FFFFFF;
+}
+
+.div3 {
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.tabs {
+    padding-top: 15px;
+}
+

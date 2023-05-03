@@ -1,0 +1,32 @@
+.div2 {
+    background: #000000;
+}
+
+.pd {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.fontColor {
+    color: #FFFFFF;
+}
+
+.verticalLine {
+    color: #FFFFFF;
+    opacity: 0.5;
+}
+
+.link1 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 48px;
+    color: #FFFFFF;
+}
+
+.inputBox {
+    background: #242731;
+    mix-blend-mode: normal;
+    border-radius: 12px;
+}
